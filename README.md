@@ -7,8 +7,8 @@ This repository contains a comprehensive Power BI project focused on analyzing i
 
 | File                               | Description                                                      |
 |-------------------------------     |------------------------------------------------------------------|
-| `insurance_dashboard.pbix`         | Main Power BI report with visualizations and insights            |
-| `sql_source_data.CSV`              | csv data uploaded to SQL Server for simulation                   |
+| `Insurance Dashboard.pbix`         | Main Power BI report with visualizations and insights            |
+| `InsuranceData.csv`                | csv data uploaded to SQL Server for simulation                   |
 | `Insurance+Customer+Feedback.xlsx` | Excel file used directly in Power BI for sentiment analysis      |
 | `README.md`                        | Project documentation                                            |
 
